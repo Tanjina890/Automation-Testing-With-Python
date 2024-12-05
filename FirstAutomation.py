@@ -14,5 +14,5 @@ class FindElementByID():
         time.sleep(4.00)
         driver.back()
         time.sleep(4.00)
-findbyid=FindElemenByID()
+findbyid=FindElementByID()
 findbyid.locate_by_id_demo()
